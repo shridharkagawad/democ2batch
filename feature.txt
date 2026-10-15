@@ -1,1 +1,2 @@
 hi this is feature file
+am editing in remote directory
